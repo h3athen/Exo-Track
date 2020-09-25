@@ -1,3 +1,3 @@
 # Exo-Track
 
-*A simple web application for tracking your exercide*
+*A simple web application for tracking your exercise*
